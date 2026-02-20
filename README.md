@@ -127,7 +127,7 @@ The analysis aims to answer real business questions such as:
 
 ---
 
-## 🛠️ Technologies & Libraries Used
+##  Technologies & Libraries Used
 
 ### Programming Language
 
@@ -150,27 +150,6 @@ The analysis aims to answer real business questions such as:
 
 ---
 
-##  Project Structure
-
-```
-Retail-Marketing-Analytics/
-│
-├── data/
-│   ├── raw/                # Original dataset
-│   └── processed/          # Cleaned dataset
-│
-├── reports/
-│   ├── figures/            # Generated visualizations
-│   └── inspection_reports/ # Data quality reports
-│
-├── notebooks/
-│   └── Retail and Marketing Analytics Projects.ipynb
-│
-├── requirements.txt
-└── README.md
-```
-
----
 
 ##  How to Run the Project
 
